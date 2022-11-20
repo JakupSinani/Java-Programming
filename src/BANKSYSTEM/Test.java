@@ -18,9 +18,9 @@ public class Test {
         bank.deposit(400, 15, jakup, "depositim");
         System.out.println("After deposit: " + jakup.getBalance());
         System.out.println("\n");
-        System.out.println("Before withdraw: " + jakup.getBalance());
+        System.out.println("Before withdrawal: " + jakup.getBalance());
         bank.withdraw(200, 10, jakup, "terheqje");
-        System.out.println("After withdraw: " + jakup.getBalance());
+        System.out.println("After withdrawal: " + jakup.getBalance());
         System.out.println("\n");
         System.out.println("Before transfer: " + jakup.getBalance());
         bank.transfer(jakup, emir, 500, 5);
