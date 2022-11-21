@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ComprehensiveVersionJava.iml" filepath="$PROJECT_DIR$/ComprehensiveVersionJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaHowToProgram10thEdition/JavaHowToProgram10thEdition.iml" filepath="$PROJECT_DIR$/JavaHowToProgram10thEdition/JavaHowToProgram10thEdition.iml" />
     </modules>
   </component>
 </project>
