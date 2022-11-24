@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06.single_dimensional_arrays;
 
 
 //  (Count occurence of numbers) write a program that reads the integers between 1 and 100 and counts the occurences of each.

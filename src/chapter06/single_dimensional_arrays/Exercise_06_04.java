@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06.single_dimensional_arrays;
 
 
 //  (Analyze scores) Write a program that reads an unspecifed number of scores and determines how many scores are above or equal to the average,

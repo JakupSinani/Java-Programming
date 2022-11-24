@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06.single_dimensional_arrays;
 
 import java.util.Scanner;
 /*
