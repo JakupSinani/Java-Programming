@@ -1,0 +1,21 @@
+package chapter12.absTract;
+
+import java.util.Set;
+import java.util.TreeSet;
+
+public class TreeSetWithComparator {
+    public static void main(String[] args) {
+        /*  create a tree set for geometric objects using a comparator
+        Set<GeometricObject> set=new TreeSet<>(new GeometricObject());
+        set.add(new Rectangle(4,5));
+        set.add(new Circle(40));
+        set.add(new Circle(40));
+        set.add(new Rectangle(4,1));
+
+        //  display geometric objects in the tree set
+        System.out.println("A sorted set of geometric objects");
+        for (GeometricObject element: set){
+            System.out.println("area = "+element.getArea());
+        }*/
+    }
+}
