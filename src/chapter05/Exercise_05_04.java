@@ -1,4 +1,4 @@
-package Chapter05;
+package chapter05;
 
 import java.util.Scanner;
 /*(Display an integer reversed) Write a method with the following header to display
