@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/HeadFirstJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter03/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter03/TestArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter03/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="puzzle solution">
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/dog/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/exercise/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/exercise/ElectricGuitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/exercise/Mix4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/exercise/Puzzle4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/exercise/XCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/simpledotcom/SimpleDotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter04/simpledotcom/SimpleDotComTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,39 +54,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Triangle">
-    <configuration name="J5SetOfPersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.examples.J5SetOfPersonTest" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.examples.MaxConsecutiveOnes" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter03.TestArrays" />
+  <component name="RunManager" selected="Application.Exercise">
+    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.exercise.Clock" />
       <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter03.*" />
+          <option name="PATTERN" value="chapter04.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter03.Triangle" />
+    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.Exercise" />
       <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter03.*" />
+          <option name="PATTERN" value="chapter04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +81,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.examples.TwoSum" />
-      <module name="JAVA" />
+    <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.exercise.Mix4" />
+      <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.examples.*" />
+          <option name="PATTERN" value="chapter04.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puzzle4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.exercise.Puzzle4" />
+      <module name="HeadFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter04.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDotComTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.simpledotcom.SimpleDotComTest" />
+      <module name="HeadFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter04.simpledotcom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.TestArrays" />
-        <item itemvalue="Application.MaxConsecutiveOnes" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.J5SetOfPersonTest" />
+        <item itemvalue="Application.Exercise" />
+        <item itemvalue="Application.SimpleDotComTest" />
+        <item itemvalue="Application.Puzzle4" />
+        <item itemvalue="Application.Mix4" />
+        <item itemvalue="Application.Clock" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669589684154</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="puzzle solution">
+      <created>1669591537942</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669591537942</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,7 +221,8 @@
     <MESSAGE value="chapter 08" />
     <MESSAGE value="chapter 10" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="puzzle solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="puzzle solution" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
