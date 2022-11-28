@@ -1,4 +1,4 @@
-package chapter07;
+package chapter08;
 
 public class Animal {
     String picture;
