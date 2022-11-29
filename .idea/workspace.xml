@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="mosh">
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Utils.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/KeyValuePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/linkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/HackerRank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/arithmetic/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/arithmetic/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/arithmetic/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/book/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/book/MyBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +77,39 @@
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Example" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.InsertionArray" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.oop.Main" />
+      <option name="MAIN_CLASS_NAME" value="mosh.linkedlist.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.oop.*" />
+          <option name="PATTERN" value="mosh.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.Main" />
-      <module name="JAVA" />
+      <option name="MAIN_CLASS_NAME" value="inheritance.book.Main" />
+      <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mosh.oop.*" />
+          <option name="PATTERN" value="inheritance.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,51 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mosh.oop.Main" />
-      <module name="JAVA" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.arithmetic.Solution" />
+      <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mosh.oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mosh.generics.Main" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mosh.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.Test" />
-      <module name="HeadFirstJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHippo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter09.TestHippo" />
-      <module name="HeadFirstJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter09.*" />
+          <option name="PATTERN" value="inheritance.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestHippo" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.InsertionArray" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +260,35 @@
       <option name="project" value="LOCAL" />
       <updated>1669725774472</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="mosh">
+      <created>1669726825371</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669726825371</updated>
+    </task>
+    <task id="LOCAL-00016" summary="mosh">
+      <created>1669726840430</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669726840430</updated>
+    </task>
+    <task id="LOCAL-00017" summary="mosh">
+      <created>1669726874510</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669726874510</updated>
+    </task>
+    <task id="LOCAL-00018" summary="mosh">
+      <created>1669726914025</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669726914025</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,9 +309,9 @@
     <MESSAGE value="puzzle solution" />
     <MESSAGE value="chapter07" />
     <MESSAGE value="chapter08" />
-    <MESSAGE value="." />
     <MESSAGE value="mosh" />
-    <option name="LAST_COMMIT_MESSAGE" value="mosh" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -304,6 +336,41 @@
           <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/examples/TwoSum.java</url>
           <line>9</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
