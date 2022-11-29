@@ -1,4 +1,4 @@
-package example;
+package mosh;
 
 public class TestBreak {
     public static void main(String[] args) {

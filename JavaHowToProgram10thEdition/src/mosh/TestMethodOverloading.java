@@ -1,4 +1,4 @@
-package example;
+package mosh;
 
 public class TestMethodOverloading {
     //  main method

@@ -1,4 +1,4 @@
-package example;
+package mosh;
 
 //  Atention
 // when you invoke a method with an argument,

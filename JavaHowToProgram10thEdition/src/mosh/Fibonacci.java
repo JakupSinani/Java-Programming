@@ -1,4 +1,4 @@
-package example;
+package mosh;
 
 public class Fibonacci {
     static int fib(int n) {

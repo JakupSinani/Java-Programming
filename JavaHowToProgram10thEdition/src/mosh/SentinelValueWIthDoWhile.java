@@ -1,4 +1,4 @@
-package example;
+package mosh;
 
 import java.util.Scanner;
 

@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="chapter08">
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter09/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter09/Hippo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter09/TestHippo.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/exception/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/UserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/EMployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/JukeBox3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/array/examples/MaxConsecutiveOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/array/examples/MaxConsecutiveOnes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeadFirstJava/HeadFirstJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HeadFirstJava/HeadFirstJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +30,7 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +58,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -55,13 +73,13 @@
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestHippo">
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.Exercise" />
-      <module name="HeadFirstJava" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.oop.Main" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.*" />
+          <option name="PATTERN" value="example.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.exercise.Puzzle4" />
-      <module name="HeadFirstJava" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Main" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.exercise.*" />
+          <option name="PATTERN" value="mosh.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDotComTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.simpledotcom.SimpleDotComTest" />
-      <module name="HeadFirstJava" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mosh.oop.Main" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.simpledotcom.*" />
+          <option name="PATTERN" value="mosh.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mosh.generics.Main" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mosh.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestHippo" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.SimpleDotComTest" />
-        <item itemvalue="Application.Puzzle4" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669653109052</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=".">
+      <created>1669660698296</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669660698296</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +283,8 @@
     <MESSAGE value="puzzle solution" />
     <MESSAGE value="chapter07" />
     <MESSAGE value="chapter08" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter08" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
