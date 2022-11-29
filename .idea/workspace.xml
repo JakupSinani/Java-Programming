@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/exception/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/GenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/generics/UserList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/EMployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/example/oop/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/JukeBox3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/Song.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="mosh">
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/array/examples/MaxConsecutiveOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/array/examples/MaxConsecutiveOnes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeadFirstJava/HeadFirstJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HeadFirstJava/HeadFirstJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669660698296</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="mosh">
+      <created>1669725774472</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669725774472</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +278,8 @@
     <MESSAGE value="chapter07" />
     <MESSAGE value="chapter08" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="mosh" />
+    <option name="LAST_COMMIT_MESSAGE" value="mosh" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
