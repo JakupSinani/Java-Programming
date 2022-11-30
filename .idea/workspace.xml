@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example2/Bounceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/Collar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example4/Moof.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="example">
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,7 @@
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dog">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Algorithms1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter16.Algorithms1" />
       <module name="JavaHowToProgram10thEdition" />
@@ -92,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.Sort1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.inheritance.Main" />
       <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.*" />
+          <option name="PATTERN" value="example.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Algorithms1" />
         <item itemvalue="Application.Sort2" />
-        <item itemvalue="Application.Sort1" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669836145295</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="example">
+      <created>1669842176304</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669842176305</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +345,8 @@
     <MESSAGE value="Generics ArrayList" />
     <MESSAGE value="Generics ArrayList." />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="example" />
+    <option name="LAST_COMMIT_MESSAGE" value="example" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
