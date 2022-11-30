@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="example">
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Main.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="inheritance example">
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Mains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomGenArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomGenArrayListWildCards.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -59,14 +63,17 @@
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src\chapter07" />
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example.generics" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Algorithms1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.Algorithms1" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.generics.CustomArrayList" />
       <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.*" />
+          <option name="PATTERN" value="example.generics.Compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +81,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.example3.Dog" />
+    <configuration name="CustomGenArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.generics.CustomGenArrayList" />
       <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.example3.*" />
+          <option name="PATTERN" value="example.generics.Compare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomGenArrayListWildCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.generics.CustomGenArrayListWildCards" />
+      <module name="JavaHowToProgram10thEdition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.generics.Compare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.generics.Compare.Main" />
+      <module name="JavaHowToProgram10thEdition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.generics.Compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,39 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.Sort2" />
-      <module name="JavaHowToProgram10thEdition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.example1.Test" />
-      <module name="JavaHowToProgram10thEdition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.CustomGenArrayListWildCards" />
+        <item itemvalue="Application.CustomGenArrayList" />
+        <item itemvalue="Application.CustomArrayList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Algorithms1" />
-        <item itemvalue="Application.Sort2" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669842176305</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="inheritance example">
+      <created>1669843660662</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1669843660662</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +360,8 @@
     <MESSAGE value="Generics ArrayList." />
     <MESSAGE value="." />
     <MESSAGE value="example" />
-    <option name="LAST_COMMIT_MESSAGE" value="example" />
+    <MESSAGE value="inheritance example" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance example" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
