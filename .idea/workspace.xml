@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Generics ArrayList">
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Generics ArrayList.">
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/chapter16/Algorithms1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/chapter16/Sort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/chapter16/Sort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/generics/TestGenerics1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/generics/TestGenerics1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +64,9 @@
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestGenerics1">
-    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.CollectionTest" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Algorithms1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Algorithms1" />
       <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
@@ -71,9 +78,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JukeBox1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.JukeBox1" />
-      <module name="HeadFirstJava" />
+    <configuration name="Sort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Sort1" />
+      <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter16.*" />
@@ -84,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JukeBox3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.JukeBox3" />
-      <module name="HeadFirstJava" />
+    <configuration name="Sort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Sort2" />
+      <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Test" />
+      <module name="JavaHowToProgram10thEdition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.TestTree" />
-      <module name="HeadFirstJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Algorithms1" />
+        <item itemvalue="Application.Sort2" />
+        <item itemvalue="Application.Sort1" />
         <item itemvalue="Application.TestGenerics1" />
-        <item itemvalue="Application.TestTree" />
-        <item itemvalue="Application.JukeBox3" />
-        <item itemvalue="Application.JukeBox1" />
-        <item itemvalue="Application.CollectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669820593162</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Generics ArrayList.">
+      <created>1669821083237</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1669821083237</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,7 +334,8 @@
     <MESSAGE value="mosh" />
     <MESSAGE value="." />
     <MESSAGE value="Generics ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics ArrayList" />
+    <MESSAGE value="Generics ArrayList." />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics ArrayList." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
