@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/chapter16/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/mosh/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/mosh/animal/CheckTrait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/mosh/animal/FindMatchinAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/ArtistCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/TestTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/JukeBox3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/JukeBox3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/Song.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/JukeBox3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/JukeBox3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/HeadFirstJava/src/chapter16/Song.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionTest">
+  <component name="RunManager" selected="Application.TestGenerics1">
     <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter16.CollectionTest" />
       <module name="JavaHowToProgram10thEdition" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Example12" />
-      <module name="JAVA" />
+    <configuration name="JukeBox1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.JukeBox1" />
+      <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMatchinAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mosh.animal.FindMatchinAnimals" />
-      <module name="JavaHowToProgram10thEdition" />
+    <configuration name="JukeBox3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.JukeBox3" />
+      <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mosh.animal.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.book.Main" />
-      <module name="HackerRank" />
+    <configuration name="TestGenerics1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.generics.TestGenerics1" />
+      <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.book.*" />
+          <option name="PATTERN" value="chapter16.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.arithmetic.Solution" />
-      <module name="HackerRank" />
+    <configuration name="TestTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.TestTree" />
+      <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.book.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestGenerics1" />
+        <item itemvalue="Application.TestTree" />
+        <item itemvalue="Application.JukeBox3" />
+        <item itemvalue="Application.JukeBox1" />
         <item itemvalue="Application.CollectionTest" />
-        <item itemvalue="Application.Example12" />
-        <item itemvalue="Application.FindMatchinAnimals" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669753025717</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=".">
+      <created>1669815646936</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669815646937</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,10 +1,32 @@
 package chapter16;
 
-public class Song {
+import org.jetbrains.annotations.NotNull;
+
+import java.util.Objects;
+
+public class Song implements Comparable<Song> {
     String title;
     String artist;
     String rating;
     String bpm;
+
+    @Override
+    public int compareTo(@NotNull Song s) {
+        return title.compareTo(s.getTitle());
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Song)) return false;
+        Song song = (Song) o;
+        return getTitle().equals(song.getTitle());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getTitle());
+    }
 
     public Song(String title, String artist, String rating, String bpm) {
         this.title = title;
