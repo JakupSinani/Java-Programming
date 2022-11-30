@@ -14,6 +14,11 @@ public class TestGenerics1 {
         animalArrayList.add(new Cat());
         animalArrayList.add(new Dog());
         takeAnimals(animalArrayList);
+
+        ArrayList<Dog> dogs = new ArrayList<>();
+        dogs.add(new Dog());
+        dogs.add(new Dog());
+        takeAnimals(dogs);  //  can't
     }
 
     public void takeAnimals(ArrayList<Animal> animals) {
