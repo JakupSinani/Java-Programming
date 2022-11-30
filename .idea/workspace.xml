@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="example">
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/MyException.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="clone">
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/ArtistCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/TestTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/TestGenerics1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/array/Example12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/Algorithms1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/CollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/Sort1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/Sort2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example1/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example1/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example2/Ball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example2/Bounceable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/Collar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/exceptionHandling/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/exceptionHandling/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/exceptionHandling/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example4/Moof.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/GenericInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/Mains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/CustomArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/CustomGenArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/CustomGenArrayListWildCards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/inheritance/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/inheritance/BoxWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/inheritance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/mosh/animal/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/mosh/animal/CheckTrait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/mosh/animal/FindMatchinAnimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/MyException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +103,7 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="CustomGenArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.generics.CustomGenArrayList" />
-      <module name="JavaHowToProgram10thEdition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.generics.Compare.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CustomGenArrayListWildCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.generics.CustomGenArrayListWildCards" />
       <module name="JavaHowToProgram10thEdition" />
@@ -129,13 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.cloning.Main" />
+      <module name="JavaHowToProgram10thEdition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.cloning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.CustomGenArrayListWildCards" />
-        <item itemvalue="Application.CustomGenArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669847148750</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="exception">
+      <created>1669847938174</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669847938174</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +411,9 @@
     <MESSAGE value="." />
     <MESSAGE value="inheritance example" />
     <MESSAGE value="example" />
-    <option name="LAST_COMMIT_MESSAGE" value="example" />
+    <MESSAGE value="exception" />
+    <MESSAGE value="clone" />
+    <option name="LAST_COMMIT_MESSAGE" value="clone" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

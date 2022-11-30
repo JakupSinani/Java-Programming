@@ -1,4 +1,4 @@
-package example.exceptionHandling;
+package example.example3.exceptionHandling;
 
 public class Main {
     public static void main(String[] args) {
