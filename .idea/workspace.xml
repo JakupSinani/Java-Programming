@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/KeyValuePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/linkedlist/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/HackerRank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/arithmetic/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/arithmetic/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/arithmetic/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/book/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/src/inheritance/book/MyBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/array/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/chapter16/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/mosh/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/mosh/animal/CheckTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/mosh/animal/FindMatchinAnimals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/generics/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/mosh/generics/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/mosh/linkedlist/LinkedList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +64,22 @@
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Example" />
+  <component name="RunManager" selected="Application.CollectionTest">
+    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.CollectionTest" />
+      <module name="JavaHowToProgram10thEdition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Example12" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -91,25 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.InsertionArray" />
-      <module name="JAVA" />
+    <configuration name="FindMatchinAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mosh.animal.FindMatchinAnimals" />
+      <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mosh.linkedlist.Main" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mosh.linkedlist.*" />
+          <option name="PATTERN" value="mosh.animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionTest" />
+        <item itemvalue="Application.Example12" />
+        <item itemvalue="Application.FindMatchinAnimals" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.InsertionArray" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669726914025</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary=".">
+      <created>1669753025717</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669753025717</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
