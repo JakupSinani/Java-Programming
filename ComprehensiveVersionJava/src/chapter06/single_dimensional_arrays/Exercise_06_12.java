@@ -6,7 +6,7 @@ package chapter06.single_dimensional_arrays;
 
 import java.util.Scanner;
 
-public class Example_06_12 {
+public class Exercise_06_12 {
     //  main method
     public static void main(String[] args) {
         //  create a array

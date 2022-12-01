@@ -1,51 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="clone">
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/ArtistCompare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/TestTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/HeadFirstJava/chapter16/generics/TestGenerics1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/array/Example12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/Algorithms1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/CollectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/Sort1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/chapter16/Sort2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example1/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example1/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example2/Ball.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example2/Bounceable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/Collar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/exceptionHandling/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/exceptionHandling/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example3/exceptionHandling/MyException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/example4/Moof.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/GenericInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/Mains.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/Compare/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/CustomArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/CustomGenArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/generics/CustomGenArrayListWildCards.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/inheritance/Box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/inheritance/BoxWeight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/inheritance/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/mosh/animal/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/mosh/animal/CheckTrait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/mosh/animal/FindMatchinAnimals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Main.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Payroll System using polymorphism">
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter04/Exercise_04_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter06/example/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter08/Exercise_08_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/ReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exceptionHandling/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter06/single_dimensional_arrays/Example_06_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter06/single_dimensional_arrays/Example_06_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter06/single_dimensional_arrays/Exercise_06_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example2/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example2/Bounceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/Collar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/MyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example4/Moof.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/GenericInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Mains.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomGenArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomGenArrayListWildCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/BoxWeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +92,13 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CustomGenArrayListWildCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.generics.CustomGenArrayListWildCards" />
+  <component name="RunManager" selected="Application.ReverseNumber">
+    <configuration name="Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Divisor" />
       <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.generics.Compare.*" />
+          <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.exceptionHandling.Demo" />
-      <module name="JavaHowToProgram10thEdition" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.example.Example4" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.exceptionHandling.*" />
+          <option name="PATTERN" value="chapter07.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.generics.Compare.Main" />
-      <module name="JavaHowToProgram10thEdition" />
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.example.Example5" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.generics.Compare.*" />
+          <option name="PATTERN" value="chapter07.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.exceptionHandling.Main" />
+    <configuration name="PayrollSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.example5.PayrollSystemTest" />
       <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.exceptionHandling.*" />
+          <option name="PATTERN" value="example.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.cloning.Main" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.ReverseNumber" />
       <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.cloning.*" />
+          <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.CustomGenArrayListWildCards" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.Divisor" />
+        <item itemvalue="Application.PayrollSystemTest" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example4" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +373,35 @@
       <option name="project" value="LOCAL" />
       <updated>1669847938174</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="clone">
+      <created>1669848733594</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1669848733595</updated>
+    </task>
+    <task id="LOCAL-00030" summary="chapter05">
+      <created>1669909534307</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669909534307</updated>
+    </task>
+    <task id="LOCAL-00031" summary="example">
+      <created>1669923143756</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1669923143759</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Payroll System using polymorphism">
+      <created>1669925499511</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1669925499511</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,10 +427,12 @@
     <MESSAGE value="Generics ArrayList." />
     <MESSAGE value="." />
     <MESSAGE value="inheritance example" />
-    <MESSAGE value="example" />
     <MESSAGE value="exception" />
     <MESSAGE value="clone" />
-    <option name="LAST_COMMIT_MESSAGE" value="clone" />
+    <MESSAGE value="chapter05" />
+    <MESSAGE value="example" />
+    <MESSAGE value="Payroll System using polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Payroll System using polymorphism" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -473,6 +492,96 @@
           <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/array/InsertionArray.java</url>
           <line>19</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Palindrom.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Palindrom.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Palindrom.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Palindrom.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Exercise_05_03.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Exercise_05_03.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Exercise_05_03.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Exercise_05_03.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Exercise_05_03.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example3.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example3.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
