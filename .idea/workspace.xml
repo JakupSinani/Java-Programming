@@ -1,40 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Payroll System using polymorphism">
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter04/Exercise_04_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter06/example/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter08/Exercise_08_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/ReverseNumber.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/CODEGYM/CODEGYM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Cat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Cat18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter06/single_dimensional_arrays/Example_06_12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/cloning/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter06/single_dimensional_arrays/Example_06_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter06/single_dimensional_arrays/Exercise_06_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/cloning/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example1/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example2/Ball.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example2/Bounceable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/Collar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example3/exceptionHandling/MyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example4/Moof.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/GenericInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Mains.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/Compare/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomGenArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/generics/CustomGenArrayListWildCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/BoxWeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/inheritance/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,55 +69,17 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseNumber">
-    <configuration name="Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.Divisor" />
-      <module name="JavaHowToProgram10thEdition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Cat2">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cat" />
+      <module name="CODEGYM" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.example.Example4" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter07.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.example.Example5" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter07.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PayrollSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.example5.PayrollSystemTest" />
-      <module name="JavaHowToProgram10thEdition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.example5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Cat2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cat2" />
+      <module name="CODEGYM" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,13 +97,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution1" />
+      <module name="CODEGYM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="CODEGYM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cat2" />
+        <item itemvalue="Application.Cat" />
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.Divisor" />
-        <item itemvalue="Application.PayrollSystemTest" />
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669925499511</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary=".">
+      <created>1669934571120</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1669934571125</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,14 +385,14 @@
     <MESSAGE value="mosh" />
     <MESSAGE value="Generics ArrayList" />
     <MESSAGE value="Generics ArrayList." />
-    <MESSAGE value="." />
     <MESSAGE value="inheritance example" />
     <MESSAGE value="exception" />
     <MESSAGE value="clone" />
     <MESSAGE value="chapter05" />
     <MESSAGE value="example" />
     <MESSAGE value="Payroll System using polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Payroll System using polymorphism" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
