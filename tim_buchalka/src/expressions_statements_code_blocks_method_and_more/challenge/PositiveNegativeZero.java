@@ -1,4 +1,4 @@
-package expressions_statements_code_blocks_method_and_more.exercise;
+package expressions_statements_code_blocks_method_and_more.challenge;
 
 public class PositiveNegativeZero {
     public static void main(String[] args) {
