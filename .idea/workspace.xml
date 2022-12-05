@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="timBuchalkaCourse">
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/expressions_statements_code_blocks_method_and_more/exercise/MethodOverloading.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Inner and Abstract Classes &amp; Interfaces&#10;part 1">
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/FootbalPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/FootbalPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,25 +67,85 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HeadFirstJava/src/chapter07" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tim_buchalka/src/inner_abstract_interface/absTract" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\tim_buchalka\src\inner_abstract_interface\absTract" />
+      <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\tim_buchalka\src\inner_abstract_interface\challenge\inner_challenge" />
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src\chapter07" />
       <recent name="C:\Users\jakup.JS28130.000\Desktop\ComprehensiveVersionJava\HeadFirstJava\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="generics.challenge" />
+      <recent name="oop_part2.challenge.polymorphism" />
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodOverloading">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.challenge.inner_challenge.Main" />
+      <module name="tim_buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_abstract_interface.challenge.inner_challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.challenge.Main" />
+      <module name="tim_buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.absTract.Main" />
+      <module name="tim_buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_abstract_interface.absTract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.challenge.abstract_challenge.Main" />
+      <module name="tim_buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_abstract_interface.challenge.abstract_challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expressions_statements_code_blocks_method_and_more.Main" />
+      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.innerclass.Main" />
       <module name="tim_buchalka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expressions_statements_code_blocks_method_and_more.exercise.*" />
+          <option name="PATTERN" value="inner_abstract_interface.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expressions_statements_code_blocks_method_and_more.MethodInJava" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.Main" />
       <module name="tim_buchalka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expressions_statements_code_blocks_method_and_more.exercise.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expressions_statements_code_blocks_method_and_more.exercise.MethodOverloading" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.challenge.interface_challenge.Main" />
       <module name="tim_buchalka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expressions_statements_code_blocks_method_and_more.exercise.*" />
+          <option name="PATTERN" value="inner_abstract_interface.challenge.interface_challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,25 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveNegativeZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expressions_statements_code_blocks_method_and_more.exercise.PositiveNegativeZero" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_list_autoboxing_unboxing.linkedlist.example1.Main" />
       <module name="tim_buchalka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expressions_statements_code_blocks_method_and_more.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expressions_statements_code_blocks_method_and_more.exercise.SpeedConverter" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="expressions_statements_code_blocks_method_and_more.exercise.*" />
+          <option name="PATTERN" value="arrays_list_autoboxing_unboxing.linkedlist.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.SpeedConverter" />
-        <item itemvalue="Application.PositiveNegativeZero" />
-        <item itemvalue="Application.MethodInJava" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +449,77 @@
       <option name="project" value="LOCAL" />
       <updated>1670020803840</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="timBuchalkaCourse">
+      <created>1670021891330</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1670021891330</updated>
+    </task>
+    <task id="LOCAL-00036" summary="timBuchalkaCourse">
+      <created>1670067341301</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1670067341301</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Control-Flow-Statement">
+      <created>1670069774889</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1670069774889</updated>
+    </task>
+    <task id="LOCAL-00038" summary="OOP Part 1 - Classes, Constructors and Inheritance">
+      <created>1670084632478</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1670084632478</updated>
+    </task>
+    <task id="LOCAL-00039" summary="OOP Part 2 - Composition, Encapsulation, and Polymorphism">
+      <created>1670093360748</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1670093360748</updated>
+    </task>
+    <task id="LOCAL-00040" summary="MASTER-CHALLENGE-EXERCISE&#10;This solution is not 100% perfect.&#10;It would be better to use List.">
+      <created>1670099124051</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1670099124051</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Arrays, Java inbuilt Lists, Autoboxing and Unboxing">
+      <created>1670170796401</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1670170796401</updated>
+    </task>
+    <task id="LOCAL-00042" summary="LinkedList">
+      <created>1670184889569</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1670184889569</updated>
+    </task>
+    <task id="LOCAL-00043" summary=".">
+      <created>1670184929050</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1670184929054</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Inner and Abstract Classes &amp; Interfaces&#10;part 1">
+      <created>1670191351861</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1670191351861</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,9 +549,16 @@
     <MESSAGE value="chapter05" />
     <MESSAGE value="example" />
     <MESSAGE value="Payroll System using polymorphism" />
-    <MESSAGE value="." />
     <MESSAGE value="timBuchalkaCourse" />
-    <option name="LAST_COMMIT_MESSAGE" value="timBuchalkaCourse" />
+    <MESSAGE value="Control-Flow-Statement" />
+    <MESSAGE value="OOP Part 1 - Classes, Constructors and Inheritance" />
+    <MESSAGE value="OOP Part 2 - Composition, Encapsulation, and Polymorphism" />
+    <MESSAGE value="MASTER-CHALLENGE-EXERCISE&#10;This solution is not 100% perfect.&#10;It would be better to use List." />
+    <MESSAGE value="Arrays, Java inbuilt Lists, Autoboxing and Unboxing" />
+    <MESSAGE value="LinkedList" />
+    <MESSAGE value="." />
+    <MESSAGE value="Inner and Abstract Classes &amp; Interfaces&#10;part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inner and Abstract Classes &amp; Interfaces&#10;part 1" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
