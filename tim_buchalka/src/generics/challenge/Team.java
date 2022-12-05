@@ -63,7 +63,7 @@ public class Team<T extends Player> {
         return (won * 2) + tied;
     }
 
-    @Override
+    //@Override
     public int compareTo(Team team) {
         if (this.ranking() > team.ranking()) {
             return -1;

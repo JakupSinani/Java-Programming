@@ -4,7 +4,7 @@ import generics.SoccerPlayer;
 
 public class Main {
     public static void main(String[] args) {
-        League<Team<FootbalPlayer>> fotballLeague = new League<Team<FootbalPlayer>>("AFL");
+     /*   League<Team<FootbalPlayer>> fotballLeague = new League<Team<FootbalPlayer>>("AFL");
         Team<FootbalPlayer> adelaideCrows = new Team<>("Adelaide Crows");
         Team<FootbalPlayer> melbourne = new Team<>("Melbourne");
         Team<BaseballPlayer> baseballTeam = new Team<>("Chicago Cubs");
@@ -18,7 +18,7 @@ public class Main {
         fotballLeague.add(fremantle);
 
         //fotballLeague.add(baseballTeam);
-        fotballLeague.showLeagueTable();
+        fotballLeague.showLeagueTable();*/
 
     }
 }
