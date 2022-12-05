@@ -1,4 +1,4 @@
-package inner_abstract_interface.challenge;
+package inner_abstract_interface.challenge.interface_challenge;
 
 import java.util.ArrayList;
 import java.util.List;
