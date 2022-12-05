@@ -1,6 +1,6 @@
 package generics.challenge;
 
-import generics.Team;
+import generics.challenge.Team;
 
 import java.util.ArrayList;
 import java.util.Collections;

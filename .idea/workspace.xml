@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Inner and Abstract Classes &amp; Interfaces&#10;part 1">
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/FootbalPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/SoccerPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/FootbalPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Team.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Collections&#10;part 2">
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/maps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/maps/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/maps/example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/League.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Team.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +67,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tim_buchalka/src/inner_abstract_interface/absTract" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/CodeGymIdeaPlugin.jar" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -87,20 +87,7 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.challenge.inner_challenge.Main" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inner_abstract_interface.challenge.inner_challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.example">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics.challenge.Main" />
       <module name="tim_buchalka" />
@@ -114,51 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.absTract.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Main" />
       <module name="tim_buchalka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inner_abstract_interface.absTract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.challenge.abstract_challenge.Main" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inner_abstract_interface.challenge.abstract_challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.innerclass.Main" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inner_abstract_interface.innerclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.Main" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,13 +140,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
+      <module name="CODEGYM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution3" />
+      <module name="CODEGYM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.maps.example" />
+      <module name="tim_buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.example" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670191351861</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Generics">
+      <created>1670240844710</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1670240844710</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Collections&#10;part 1">
+      <created>1670259316516</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1670259316516</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +523,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OOP" />
     <MESSAGE value="chapter 08" />
     <MESSAGE value="chapter 10" />
     <MESSAGE value="puzzle solution" />
@@ -558,7 +546,9 @@
     <MESSAGE value="LinkedList" />
     <MESSAGE value="." />
     <MESSAGE value="Inner and Abstract Classes &amp; Interfaces&#10;part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inner and Abstract Classes &amp; Interfaces&#10;part 1" />
+    <MESSAGE value="Generics" />
+    <MESSAGE value="Collections&#10;part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections&#10;part 1" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

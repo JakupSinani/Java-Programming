@@ -5,7 +5,7 @@ import generics.Player;
 import java.util.ArrayList;
 
 
-public class Team<T extends Player> {
+public class Team<T extends Player> implements Comparable<Team<T>> {
     private final String name;
     int played = 0;
     int won = 0;
