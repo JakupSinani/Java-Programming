@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Collections&#10;part 2">
-      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODEGYM/src/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/maps/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/maps/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/maps/example.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exampl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/BasicContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/HeavyContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/LiquidContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/RefrigeratedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/interfaces/IPort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/interfaces/IShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/ports/Port.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/ships/Ship.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/CODEGYM/Cat1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/League.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/tim_buchalka/src/generics/challenge/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/Divisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/Divisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/ReverseNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,39 +89,13 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.example">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.challenge.Main" />
-      <module name="tim_buchalka" />
+  <component name="RunManager" selected="Application.exampl3">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Example1" />
+      <module name="JavaHowToProgram10thEdition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Main" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner_abstract_interface.challenge.interface_challenge.Main" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inner_abstract_interface.challenge.interface_challenge.*" />
+          <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exampl3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.exampl3" />
+      <module name="JavaHowToProgram10thEdition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.maps.example" />
       <module name="tim_buchalka" />
@@ -169,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exampl3" />
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.example" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670259316516</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary=".">
+      <created>1670280005626</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1670280005626</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,11 +540,11 @@
     <MESSAGE value="MASTER-CHALLENGE-EXERCISE&#10;This solution is not 100% perfect.&#10;It would be better to use List." />
     <MESSAGE value="Arrays, Java inbuilt Lists, Autoboxing and Unboxing" />
     <MESSAGE value="LinkedList" />
-    <MESSAGE value="." />
     <MESSAGE value="Inner and Abstract Classes &amp; Interfaces&#10;part 1" />
     <MESSAGE value="Generics" />
     <MESSAGE value="Collections&#10;part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections&#10;part 1" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
