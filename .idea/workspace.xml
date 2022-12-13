@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/exampl3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/BasicContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/HeavyContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/LiquidContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/container/RefrigeratedContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/interfaces/IPort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/interfaces/IShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/ports/Port.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/example/example6/ships/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/FindMIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/FindSecondMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/RemoveEvenIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/Divisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/Divisor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JavaHowToProgram10thEdition/example/ReverseNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,80 +83,49 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exampl3">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.Example1" />
-      <module name="JavaHowToProgram10thEdition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.FindSecondMax">
+    <configuration name="FindMIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMIn" />
+      <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_list_autoboxing_unboxing.linkedlist.example1.Main" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays_list_autoboxing_unboxing.linkedlist.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="FindSecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindSecondMax" />
+      <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution2" />
-      <module name="CODEGYM" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumber" />
+      <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution3" />
-      <module name="CODEGYM" />
+    <configuration name="RemoveEvenIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveEvenIntegers" />
+      <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exampl3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.exampl3" />
-      <module name="JavaHowToProgram10thEdition" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.maps.example" />
-      <module name="tim_buchalka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+      <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exampl3" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.example" />
-        <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.FindSecondMax" />
+        <item itemvalue="Application.FindMIn" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.RemoveEvenIntegers" />
+        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670280005626</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary=".">
+      <created>1670879448243</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1670879448243</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter 08" />
     <MESSAGE value="chapter 10" />
     <MESSAGE value="puzzle solution" />
     <MESSAGE value="chapter07" />
@@ -543,6 +512,7 @@
     <MESSAGE value="Inner and Abstract Classes &amp; Interfaces&#10;part 1" />
     <MESSAGE value="Generics" />
     <MESSAGE value="Collections&#10;part 1" />
+    <MESSAGE value="&#10;." />
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
@@ -694,6 +664,36 @@
           <url>file://$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter07/example/Example3.java</url>
           <line>18</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/MissingNumber.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/RemoveEvenIntegers.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/RemoveEvenIntegers.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/RemoveEvenIntegers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/FindSecondMax.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/FindSecondMax.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
