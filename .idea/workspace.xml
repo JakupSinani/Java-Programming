@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="ArrayList">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/Collections-Example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/arraylist/AccesElementsFromArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/arraylist/ArrayListCollectionsSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/arraylist/ArrayListIteratorRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/exampleeeee/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/exampleeeee/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/exampleeeee/InsufficientFundsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/exampleeeee/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHowToProgram10thEdition/src/exampleeeee/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/adventure/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/adventure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim_buchalka/src/collections/maps/MapProgramming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hackerrank/BiCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hackerrank/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/AccessKeysFromHashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/CreateHashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/HashmapEntryKeySetValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/IterateOverHashmap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/DSA.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +84,13 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListIteratorRemove">
-    <configuration name="ArrayListCollectionsSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.ArrayListCollectionsSort" />
+  <component name="RunManager" selected="Application.InstanceOFTutorial">
+    <configuration name="AccessKeysFromHashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap.AccessKeysFromHashmap" />
       <module name="Collections-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListIteratorRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.ArrayListIteratorRemove" />
+    <configuration name="CreateHashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap.CreateHashmap" />
       <module name="Collections-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,23 +111,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContainsDuplicate" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpiralMatrix" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arraylist.AccesElementsFromArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.AccesElementsFromArrayList" />
+    <configuration name="HashmapEntryKeySetValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap.HashmapEntryKeySetValues" />
       <module name="Collections-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceOFTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.InstanceOFTutorial" />
+      <module name="Collections-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Solution" />
+      <module name="Collections-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListIteratorRemove" />
-        <item itemvalue="Application.ArrayListCollectionsSort" />
-        <item itemvalue="Application.arraylist.AccesElementsFromArrayList" />
-        <item itemvalue="Application.SpiralMatrix" />
-        <item itemvalue="Application.ContainsDuplicate" />
+        <item itemvalue="Application.InstanceOFTutorial" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.HashmapEntryKeySetValues" />
+        <item itemvalue="Application.CreateHashmap" />
+        <item itemvalue="Application.AccessKeysFromHashmap" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669453241485</updated>
       <workItem from="1672495293991" duration="2384000" />
-      <workItem from="1672570757899" duration="738000" />
-    </task>
-    <task id="LOCAL-00001" summary="OOP">
-      <created>1669470257542</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1669470257542</updated>
+      <workItem from="1672570757899" duration="5174000" />
     </task>
     <task id="LOCAL-00002" summary=".">
       <created>1669471566134</created>
@@ -521,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670930664669</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="ArrayList">
+      <created>1672577837812</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1672577837813</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
