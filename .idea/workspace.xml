@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="ArrayList">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hackerrank/BiCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hackerrank/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/AccessKeysFromHashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/CreateHashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/HashmapEntryKeySetValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/hashmap/IterateOverHashmap.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Hashmap">
+      <change afterPath="$PROJECT_DIR$/DSA/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MultiThreadThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Solution1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +43,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,46 +85,7 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstanceOFTutorial">
-    <configuration name="AccessKeysFromHashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap.AccessKeysFromHashmap" />
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateHashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap.CreateHashmap" />
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashmapEntryKeySetValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap.HashmapEntryKeySetValues" />
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="InstanceOFTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.InstanceOFTutorial" />
       <module name="Collections-Example" />
@@ -133,6 +95,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,26 +126,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution1" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.MultiThreading" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.InstanceOFTutorial" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.HashmapEntryKeySetValues" />
-        <item itemvalue="Application.CreateHashmap" />
-        <item itemvalue="Application.AccessKeysFromHashmap" />
       </list>
     </recent_temporary>
   </component>
@@ -182,14 +163,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669453241485</updated>
       <workItem from="1672495293991" duration="2384000" />
-      <workItem from="1672570757899" duration="5174000" />
-    </task>
-    <task id="LOCAL-00002" summary=".">
-      <created>1669471566134</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1669471566134</updated>
+      <workItem from="1672570757899" duration="5494000" />
+      <workItem from="1672605870902" duration="5736000" />
     </task>
     <task id="LOCAL-00003" summary="chapter 08">
       <created>1669479543540</created>
@@ -527,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672577837813</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Hashmap">
+      <created>1672604758635</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1672604758635</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter07" />
     <MESSAGE value="chapter08" />
     <MESSAGE value="mosh" />
     <MESSAGE value="Generics ArrayList" />
@@ -570,7 +551,8 @@
     <MESSAGE value="." />
     <MESSAGE value="dsa" />
     <MESSAGE value="ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
+    <MESSAGE value="Hashmap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hashmap" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -790,6 +772,21 @@
           <url>file://$PROJECT_DIR$/DSA/src/SpiralMatrix.java</url>
           <line>5</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/ListNode.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/ListNode.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/ListNode.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
