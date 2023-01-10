@@ -4,26 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparable/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparable/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/GetDataByCompanyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/GetDataByDesignation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/GetDataByDesignationAndSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/GetDataBySalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/NameCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/RatingCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/comparator/Recruitment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/contact/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/contact/ContactManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/generics/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/lambda/NumericTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/test/ContactManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections-Example/src/test/MovieSorterTest.java" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Collection-Example">
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/ThinkingInJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/ListCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/PrintingContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/exercise/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections-Example/Collections-Example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections-Example/Collections-Example.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +36,8 @@
         <option value="Enum" />
         <option value="Kotlin Class" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -111,7 +102,72 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ContactManagerTest">
+  <component name="RunManager" selected="Application.Exercise">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Car" />
+      <module name="ThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.Exercise" />
+      <module name="ThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PLaceSetting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.PLaceSetting" />
+      <module name="ThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintingContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.PrintingContainer" />
+      <module name="ThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Tree" />
+      <module name="ThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -123,91 +179,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContactManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.ContactManagerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovieSorterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.MovieSorterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovieSorterTest.testSortByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.MovieSorterTest" />
-      <option name="METHOD_NAME" value="testSortByName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovieSorterTest.testSortByRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.MovieSorterTest" />
-      <option name="METHOD_NAME" value="testSortByRating" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovieSorterTest.testSortByYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Collections-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.MovieSorterTest" />
-      <option name="METHOD_NAME" value="testSortByYear" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ContactManagerTest" />
-        <item itemvalue="JUnit.MovieSorterTest" />
-        <item itemvalue="JUnit.MovieSorterTest.testSortByYear" />
-        <item itemvalue="JUnit.MovieSorterTest.testSortByName" />
-        <item itemvalue="JUnit.MovieSorterTest.testSortByRating" />
+        <item itemvalue="Application.Exercise" />
+        <item itemvalue="Application.PrintingContainer" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.PLaceSetting" />
+        <item itemvalue="Application.Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -221,14 +199,7 @@
       <updated>1669453241485</updated>
       <workItem from="1672495293991" duration="2384000" />
       <workItem from="1672570757899" duration="5494000" />
-      <workItem from="1672605870902" duration="26327000" />
-    </task>
-    <task id="LOCAL-00005" summary="chapter 10">
-      <created>1669495242102</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1669495242102</updated>
+      <workItem from="1672605870902" duration="33201000" />
     </task>
     <task id="LOCAL-00006" summary=".">
       <created>1669496643740</created>
@@ -566,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672851552726</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Collection-Example">
+      <created>1672929023082</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1672929023082</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter08" />
     <MESSAGE value="mosh" />
     <MESSAGE value="Generics ArrayList" />
     <MESSAGE value="Generics ArrayList." />
@@ -609,7 +586,8 @@
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Hashmap" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Collection-Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection-Example" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
