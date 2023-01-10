@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment="Collection-Example">
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/ThinkingInJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/ListCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/PrintingContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/example/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/src/exercise/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6a1c92f6-9ba1-4db5-ac59-58571d650155" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter04/example/ComputeAngles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Example/PrimeNumberMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Example/PrintCalendar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter07/example/Example1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter07/example/Example1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter07/example/Example2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter07/example/Example2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter07/example/Example5.class" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/out/production/JAVA/chapter07/example/Example5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Exercise_05_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComprehensiveVersionJava/src/chapter05/Exercise_05_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +100,13 @@
       <recent name="example.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.Car" />
-      <module name="ThinkingInJava" />
+  <component name="RunManager" selected="Application.Exercise_05_11">
+    <configuration name="ComputeAngles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.example.ComputeAngles" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="chapter04.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.Exercise" />
-      <module name="ThinkingInJava" />
+    <configuration name="Exercise_05_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.Exercise_05_07" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.*" />
+          <option name="PATTERN" value="chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PLaceSetting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.PLaceSetting" />
-      <module name="ThinkingInJava" />
+    <configuration name="Exercise_05_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.Exercise_05_11" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.PrintingContainer" />
-      <module name="ThinkingInJava" />
+    <configuration name="PrimeNumberMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.Example.PrimeNumberMethod" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="chapter05.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.Tree" />
-      <module name="ThinkingInJava" />
+    <configuration name="PrintCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.Example.PrintCalendar" />
+      <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="chapter05.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.PrintingContainer" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.PLaceSetting" />
-        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.Exercise_05_11" />
+        <item itemvalue="Application.PrintCalendar" />
+        <item itemvalue="Application.PrimeNumberMethod" />
+        <item itemvalue="Application.ComputeAngles" />
+        <item itemvalue="Application.Exercise_05_07" />
       </list>
     </recent_temporary>
   </component>
@@ -199,14 +197,7 @@
       <updated>1669453241485</updated>
       <workItem from="1672495293991" duration="2384000" />
       <workItem from="1672570757899" duration="5494000" />
-      <workItem from="1672605870902" duration="33201000" />
-    </task>
-    <task id="LOCAL-00006" summary=".">
-      <created>1669496643740</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1669496643740</updated>
+      <workItem from="1672605870902" duration="40862000" />
     </task>
     <task id="LOCAL-00007" summary=".">
       <created>1669569455360</created>
@@ -544,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672929023082</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary=".">
+      <created>1673364510749</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1673364510749</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,9 +583,9 @@
     <MESSAGE value="dsa" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Hashmap" />
-    <MESSAGE value="." />
     <MESSAGE value="Collection-Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection-Example" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
